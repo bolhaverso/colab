@@ -21,7 +21,7 @@ Please go to the issue page and open an issue for us!
 
 We'll anwser as fast as we can.
 
-# Sysadmin Help (pt-br)
+# About Sysadmin (pt-br)
 
 Você encontrou um problema em um de nossos serviços?
 
